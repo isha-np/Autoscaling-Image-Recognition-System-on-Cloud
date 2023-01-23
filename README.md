@@ -6,3 +6,4 @@ Autoscaling can be achieved by Elastic Load Balancer, but we were required to de
 The next stage of the project involved deploying the web tier with the autoscaling function on to a hybrid cloud environment using OpenStack services.
 
 Since this project is part of coursework, the code and system design has been hidden. 
+![arch_diag final](https://user-images.githubusercontent.com/74524978/214172685-60f0773b-648f-4df4-ac4a-dc8c76af98be.PNG)
